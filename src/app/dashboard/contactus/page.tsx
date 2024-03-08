@@ -29,7 +29,7 @@ export default function Page() {
   
           <div className="-mx-3 md:flex mb-6">
             <div className="md:w-full px-3">
-              <label className="block uppercase tracking-wide text-grey-darker text-xs font-bold mb-2" for="message">
+              <label className="block uppercase tracking-wide text-grey-darker text-xs font-bold mb-2" htmlFor="message">
                 Message
               </label>
               <textarea className="appearance-none block w-full bg-grey-lighter text-grey-darker border border-grey-lighter rounded py-3 px-4 mb-3" id="message" placeholder="Enter your message"></textarea>
