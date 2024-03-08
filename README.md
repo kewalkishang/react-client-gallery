@@ -1,6 +1,7 @@
 # Next.js - Client Gallery 
 
-
+## Architecture -
+![](https://github.com/kewalkishang/react-client-gallery/blob/main/diagram.png)
 
 ## Tech Stack Components:
 ### Frontend:
